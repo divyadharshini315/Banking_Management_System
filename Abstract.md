@@ -1,0 +1,4 @@
+### Abstract
+
+##### &#x20;      The Banking Management System is a console-based Java application designed to manage basic banking operations efficiently. The system allows users to create bank accounts, deposit money, withdraw money, check account balances, and display all available accounts. Java's ArrayList is used to dynamically store and manage multiple account details. The project demonstrates important Object-Oriented Programming concepts such as classes, objects, constructors, methods, loops, conditional statements, and user input handling. The system provides a simple and user-friendly approach to performing basic banking operations while maintaining account information in an organized manner. This project can be further enhanced by integrating a database, user authentication, transaction history, and a graphical user interface.
+
